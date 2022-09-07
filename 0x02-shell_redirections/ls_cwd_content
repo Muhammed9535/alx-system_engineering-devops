@@ -1,14 +1,41 @@
-total 48
-drwxr-xr-x 2 root root   225 Sep  5 08:48 .
-drwxr-xr-x 6 root root   121 Sep  5 06:38 ..
+total 172
+drwxr-xr-x 2 root root  4096 Sep  7 12:34 .
+drwxr-xr-x 7 root root   160 Sep  6 12:51 ..
 -rwxr--r-- 1 root root    33 Sep  5 07:04 0-hello_world
+-rwxr--r-- 1 root root    56 Sep  5 17:11 100-empty_casks
+-rwxr--r-- 1 root root   105 Sep  5 17:15 101-gifs
+-rwxr--r-- 1 root root    38 Sep  5 17:18 102-acrostic
+-rwxr--r-- 1 root root   115 Sep  5 17:23 103-the_biggest_fan
+-rwxr--r-- 1 root root    48 Sep  5 10:06 10-no_more_js
+-rwxr--r-- 1 root root    45 Sep  5 16:09 11-directories
+-rwxr--r-- 1 root root    30 Sep  5 13:24 12-newest_files
+-rwxr--r-- 1 root root    27 Sep  5 15:56 13-unique
+-rwxr--r-- 1 root root    31 Sep  5 13:54 14-findthatword
+-rwxr--r-- 1 root root    38 Sep  5 14:09 15-countthatword
+-rwxr--r-- 1 root root    42 Sep  5 14:23 16-whatsnext
+-rwxr--r-- 1 root root    36 Sep  5 15:44 17-hidethisword
+-rwxr--r-- 1 root root    53 Sep  5 15:34 18-letteronly
+-rwxr--r-- 1 root root    28 Sep  5 15:40 19-AZ
+-rwxr--r-- 1 root root    28 Sep  5 16:34 1-confused_smiley
 -rw------- 1 root root 12288 Sep  5 07:07 .1-confused_smiley.swp
+-rwxr--r-- 1 root root    30 Sep  5 15:49 20-hiago
+-rwxr--r-- 1 root root    16 Sep  5 15:46 21-reverse
+-rwxr--r-- 1 root root    47 Sep  5 15:53 22-users_and_homes
 -rwxr--r-- 1 root root    28 Sep  5 07:47 2-hellofile
 -rwxr--r-- 1 root root    39 Sep  5 07:51 3-twofiles
 -rwxr--r-- 1 root root    35 Sep  5 07:55 4-lastlines
 -rwxr--r-- 1 root root    35 Sep  5 07:58 5-firstlines
 -rwxr--r-- 1 root root    40 Sep  5 08:13 6-third_line
--rwxr--r-- 1 root root    73 Sep  5 08:40 7-file
--rwxr--r-- 1 root root    36 Sep  5 08:48 8-cwd_state
--rw-r--r-- 1 root root     0 Sep  5 08:48 ls_cwd_content
+-rwxr--r-- 1 root root    99 Sep  5 18:04 7-file
+-rw-r--r-- 1 root root 12288 Sep  5 17:40 .7-file.swp
+-rwxr--r-- 1 root root    36 Sep  7 12:34 8-cwd_state
+-rw-r--r-- 1 root root 12288 Sep  6 15:10 .8-cwd_state.swp
+-rwxr--r-- 1 root root    38 Sep  5 09:08 9-duplicate_last_line
+-rw-r--r-- 1 root root    38 Sep  5 16:54 \*\'Best
+-rw-r--r-- 1 root root    12 Sep  5 17:51 \*\\"\"Best School\"\\"\\*$\?\*\*\*\*\*\:)
+-rw-r--r-- 1 root root    12 Sep  5 16:47 \*\\'"Best School"\'\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    12 Sep  5 18:04 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    12 Sep  5 17:41 \*\\'"Best School"\'\\*$\?\*\*\*\*\*\:)
+-rw-r--r-- 1 root root     0 Sep  5 09:09 iacta
+-rw-r--r-- 1 root root     0 Sep  7 12:35 ls_cwd_content
 -rw-r--r-- 1 root root    33 Sep  5 06:45 README.md
